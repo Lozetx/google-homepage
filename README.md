@@ -1,0 +1,1 @@
+I can creat a new repository for a project and move it onto my local machine! I can also set up a README.md file and write into it! I'm glad! It's very cool!
